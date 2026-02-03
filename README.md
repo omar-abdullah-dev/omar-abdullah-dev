@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](https://github.com/omar-abdullah-dev/metrics/blob/master/github-metrics.svg)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-abdullah-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
