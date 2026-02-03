@@ -1,11 +1,17 @@
-## Hi there 👋, I'm Omar Moharam
+<table width="100%">
+  <tr>
+    <td width="85%">
+      <h2>Hi there 👋, I'm Omar Moharam</h2>
+    </td>
+    <td width="15%" align="right">
+      <img 
+        src="https://komarev.com/ghpvc/?username=omar-abdullah-dev&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Profile views"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img 
-    src="https://komarev.com/ghpvc/?username=omar-abdullah-dev&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Omar Abdullah"
-  />
-</p>
 
 
 <!--
