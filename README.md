@@ -19,10 +19,10 @@
 
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=omar-abdullah-dev&theme=dark&hide_border=true"
     alt="GitHub Streak"
     width="85%"
   />
-</p>
+</p> -->
