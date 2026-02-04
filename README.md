@@ -1,7 +1,3 @@
-<!-- ===================== -->
-<!-- Header -->
-<!-- ===================== -->
-
 <h2 align="center">Hi there 👋, I'm Omar Moharam</h2>
 
 <p align="center">
@@ -11,18 +7,22 @@
   />
 </p>
 
-<!-- ===================== -->
-<!-- Metrics + Streak -->
-<!-- ===================== -->
+<br />
 
-<table align="center" width="85%">
-  <tr>
-    <td align="center">
+<p align="center">
+  <img 
+    src="https://github.com/omar-abdullah-dev/metrics/blob/master/github-metrics.svg"
+    alt="GitHub Metrics"
+    width="85%"
+  />
+</p>
 
-![Metrics](https://github.com/omar-abdullah-dev/metrics/blob/master/github-metrics.svg)
+<br />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=omar-abdullah-dev&theme=dark&hide_border=true)
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=omar-abdullah-dev&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    width="85%"
+  />
+</p>
