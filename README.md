@@ -1,3 +1,4 @@
+[![MasterHead](https://images.prismic.io/staticmania/Z1lxIZbqstJ98T6S_spring-boot.jpg?auto=format,compress)](https://rishavchanda.io)
 <h2 align="center">Hi there 👋, I'm Omar Moharam</h2>
 
 <p align="center">
@@ -18,6 +19,8 @@
 </p>
 
 <br />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-abdullah-dev&" alt="omar-abdullah-dev" /></p>
+
 
 <!-- <p align="center">
   <img 
