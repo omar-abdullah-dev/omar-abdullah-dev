@@ -19,7 +19,7 @@
 </p>
 
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-abdullah-dev&" alt="omar-abdullah-dev" width="100%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-abdullah-dev&" alt="omar-abdullah-dev" width="100%" height ="50%"/></p>
 
 
 <!-- <p align="center">
