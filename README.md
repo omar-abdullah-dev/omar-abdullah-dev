@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=180&section=header&text=Omar%20Moharam&fontSize=52&fontColor=6DB33F&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20Spring%20Boot%20Enthusiast&descAlignY=62&descSize=18&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=160&section=header&text=Omar%20Moharam&fontSize=48&fontColor=6DB33F&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Spring%20Boot%20Enthusiast&descAlignY=58&descSize=17&descColor=8b949e" />
 
 <img src="https://komarev.com/ghpvc/?username=omar-abdullah-dev&label=Profile+Views&color=6DB33F&style=flat-square" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/omar-abdullah-dev?label=Followers&style=flat-square&color=6DB33F&logo=github" alt="Followers" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -23,8 +21,6 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 - 📐 &nbsp;Committed to **Clean Code**, SOLID principles, and OOP design
 - 🔍 &nbsp;Exploring system design concepts and backend architecture patterns
 - 💬 &nbsp;Open to opportunities, collaboration, and continuous growth
-
-<br/>
 
 ---
 
@@ -55,7 +51,37 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
 
-<br/>
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 Finance Bank — Back-Office System</h3>
+      <p>A production-quality Banking Employee System built with Java, featuring CLI & JavaFX GUI interfaces, RBAC security, layered architecture, Egyptian National ID validation, and a full JUnit 5 test suite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-000?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+        <img src="https://img.shields.io/badge/JavaFX-000?style=flat-square&logo=openjfx&logoColor=2196F3" />
+        <img src="https://img.shields.io/badge/JUnit_5-000?style=flat-square&logo=junit5&logoColor=25A162" />
+        <img src="https://img.shields.io/badge/Maven-000?style=flat-square&logo=apachemaven&logoColor=C71A36" />
+      </p>
+      <a href="https://github.com/omar-abdullah-dev/Core-Banking-Backoffice-Java">🔗 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🫁 Lungora — AI Lung Health Assistant</h3>
+      <p>Graduation project — an AI-powered mobile app for lung health monitoring, chest X-ray analysis (COVID-19 / Pneumonia detection), and location-based doctor discovery. Frontend in Flutter & BLoC, backend in .NET & Flask, with OpenRouter integrated as an AI chatbot. <em>Rebuilding backend with Spring Boot.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=02569B" />
+        <img src="https://img.shields.io/badge/.NET-000?style=flat-square&logo=dotnet&logoColor=512BD4" />
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenRouter_AI-000?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot_Soon-000?style=flat-square&logo=spring-boot&logoColor=6DB33F" />
+      </p>
+      <a href="https://github.com/omarAbdullahMoharam/lungora">🔗 Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,8 +92,6 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdullah-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=6DB33F&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
 </div> -->
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-abdullah-dev&hide_border=true&background=0d1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="55%" alt="GitHub Streak" />
@@ -80,8 +104,6 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omar-abdullah-dev&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
 </div> -->
-
-<br/>
 
 ---
 
@@ -104,8 +126,6 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 </div>
 
 <br/>
-
----
 
 <div align="center">
   <sub><em>"Make it work, make it right, make it fast."</em> — Kent Beck</sub>
