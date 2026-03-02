@@ -106,11 +106,8 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 </div> -->
 
 ---
-
-## 📬 Connect With Me
-
+📬 Connect With Me
 <div align="center">
-
 <a href="https://www.linkedin.com/in/omarabdlhahmoharam">
   <img src="https://img.shields.io/badge/LinkedIn-Omar_Moharam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -122,13 +119,9 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 <a href="https://github.com/omar-abdullah-dev">
   <img src="https://img.shields.io/badge/GitHub-omar--abdullah--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </div>
-
-<br/>
-
 <div align="center">
   <sub><em>"Make it work, make it right, make it fast."</em> — Kent Beck</sub>
-  <br/><br/>
-  <img width="100%" height="30%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=100&section=footer" />
+  <br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=100&section=footer" />
 </div>
