@@ -1,4 +1,4 @@
-[![MasterHead](https://images.prismic.io/staticmania/Z1lxIZbqstJ98T6S_spring-boot.jpg?auto=format,compress)](https://rishavchanda.io)
+<!-- [![MasterHead](https://images.prismic.io/staticmania/Z1lxIZbqstJ98T6S_spring-boot.jpg?auto=format,compress)](https://rishavchanda.io)-->
 <h2 align="center">Hi there 👋, I'm Omar Moharam</h2>
 
 <p align="center">
