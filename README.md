@@ -130,5 +130,5 @@ I'm a **Computer Science graduate** passionate about backend development, with h
 <div align="center">
   <sub><em>"Make it work, make it right, make it fast."</em> — Kent Beck</sub>
   <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=100&section=footer" />
+  <img width="100%" height="30%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=100&section=footer" />
 </div>
