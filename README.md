@@ -64,6 +64,7 @@ I'm a **Computer Science graduate** passionate about backend development, with h
         <img src="https://img.shields.io/badge/Java_17-000?style=flat-square&logo=openjdk&logoColor=ED8B00" />
         <img src="https://img.shields.io/badge/JavaFX-000?style=flat-square&logo=openjfx&logoColor=2196F3" />
         <img src="https://img.shields.io/badge/JUnit_5-000?style=flat-square&logo=junit5&logoColor=25A162" />
+        <img src="https://img.shields.io/badge/JDBC-000?style=flat-square&logo=java&logoColor=ED8B00" />
         <img src="https://img.shields.io/badge/Maven-000?style=flat-square&logo=apachemaven&logoColor=C71A36" />
       </p>
       <a href="https://github.com/omar-abdullah-dev/Core-Banking-Backoffice-Java">🔗 Repository</a>
